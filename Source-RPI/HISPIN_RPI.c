@@ -1,4 +1,5 @@
 // Tutorial about UDP socket in LINUX: https://www.binarytides.com/programming-udp-sockets-c-linux/
+// Reference of WiringPi library: http://wiringpi.com/
 #include <stdio.h>
 #include <wiringPi.h>
 #include <wiringPiSPI.h>
